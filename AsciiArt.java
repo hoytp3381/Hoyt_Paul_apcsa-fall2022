@@ -1,26 +1,28 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name - Paul Hoyt
-//Date - 8/18/22
-//Class - APCSA
-//Lab  - Ascii Art Lab 0a 3
+//Name -
+//Date -
+//Class -
+//Lab  -
 
 public class AsciiArt
 {
 	public static void main ( String[] args )
 	{
-		System.out.println("Paul Hoyt \n\n" );
-		System.out.println("Turtle" );
+		System.out.println("Your Name \n\n" );
+		System.out.println("What type of ANIMAL YOU WILL DRAW" );
 		System.out.println("\n\n\n\n" );
 
-		System.out.println("                _____                " );
-		System.out.println("               /#####\\              " );
-		System.out.println("              /#######\\              " );
-		System.out.println("            _/#########\\_____      " );
-		System.out.println("         <-=_#  ####  ##___O_O|           " );
-		System.out.println("             | |    | |               " );
-		System.out.println("             |_|    |_|               " );
+		System.out.println("                /\\                " );
+		System.out.println("               /  \\               " );
+		System.out.println("              /    \\              " );
+		System.out.println("             [------]             " );
 		//add other output
+
+		System.out.println(" \n\n\n\nHelpFul Hints" );
+		System.out.println("\\\\ draws one backslash on the screen!\n" );
+		System.out.println("\\\" draws one double quote on the screen!\n" );
+		System.out.println("\\\' draws one single quote on the screen!\n" ); 
 	}
 }
