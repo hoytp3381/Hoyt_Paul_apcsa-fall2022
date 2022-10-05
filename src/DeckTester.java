@@ -14,10 +14,8 @@ public class DeckTester {
 		Deck test = new Deck(ranks, suits, values);
 		test.deal();
 		test.deal();
-		System.out.println(test);
+		System.out.print(test);
 		test.shuffle();
 		System.out.println(test);
 	}
 }
-
-
